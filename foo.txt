@@ -1,2 +1,1 @@
-[function-2] #2
-[project-B] #4
+release Beta QA v1.1.0.1
