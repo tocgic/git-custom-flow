@@ -1,1 +1,1 @@
-hotfix #2
+release v1.1.0
